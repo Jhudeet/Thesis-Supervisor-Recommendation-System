@@ -1,0 +1,420 @@
+[
+    {
+        "Name": "Dr Consolee Mbarushimana",
+        "Title": "Senior Lecturer",
+        "Email": "C.Mbarushimana@wlv.ac.uk",
+        "Location": "Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/consolee-mbarushimana",
+        "Expertise": [
+            "Network and cyber security",
+            "Ethical hacking",
+            "Digital forensics",
+            "Computer networks",
+            "distributed systems",
+            "Virtualisation",
+            "cloud computing",
+            "Mobile and wireless communications"
+        ],
+        "Research": [
+            "Cyber security",
+            "Computer networks protocols development",
+            "Modelling analysis",
+            "evaluation of communication networks",
+            "Software Defined Networks"
+        ],
+        "Qualifications": [
+            "PhD",
+            "MSc",
+            "BEng"
+        ],
+        "Publications": ["Publications on Research Gate"]
+    },
+    {
+        "Name": "Dr Martin Jackson",
+        "Title": "Senior Lecturer",
+        "Email": "M.Jackson3@wlv.ac.uk",
+        "Location": "Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/martin-jackson",
+        "Expertise": ["Electronics and computing"],
+        "Research": [
+            "Computing and the outside World (IoT)",
+            "Hardware and software system integration"
+        ],
+        "Qualifications": [
+            "PhD",
+            "MSc",
+            "BEng"
+        ],
+        "Publications": [
+            "Jackson, M., Smith, J. Applications of Electronics in Business Environments",
+            "Jackson, M., Williams, L. An Investigation of Cloud Computing in Small Businesses",
+            "Smith, J., Jackson. Cybersecurity Measures for Small Enterprises",
+            "Jackson M & Sloane A. Modelling Information and Communication Technology in Business",
+            "Jackson M & Sloane. A Model for analysing the success of adopting new technologies focusing on electronic commerce"
+        ]
+    },
+    {
+        "Name": "Mr Hiran Patel",
+        "Title": "Lecturer in Computer Science",
+        "Email": "H.Patel10@wlv.ac.uk",
+        "Location": "Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/hiran-patel",
+        "Expertise": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Machine Vision",
+            "Robotics - Autonomous Vehicles"
+        ],
+        "Research": [
+            "Artificial Intelligence (Machine Learning) in Healthcare",
+            "Medical Technology (Hardware and Software)",
+            "Autonomous Vehicles, Machine Vision",
+            "modelling",
+            "Cyber-bullying",
+            "Software enginering"
+        ],
+        "Qualifications": [
+            "BSc (Hons) Computer Science",
+            "MSc Computer Science",
+            "PGCE in Post Compulsory and HE"
+        ],
+        "Publications": [
+            "Ahmed, A., Jabbar, W., Sadiq, A. and Patel, H. Deep learning-based classification model for botnet attack detection"
+        ]
+    },
+    {
+        "Name": "Dr Adam Worrallo",
+        "Title": "Associate Lecturer in Computer Science",
+        "Email": "Adam.Worrallo@wlv.ac.uk",
+        "Location": "Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/adam-grant-worrallo",
+        "Expertise": [
+            "Virtual & Augmented Reality, Human-Computer Interaction",
+            "Computer Games Development",
+            "Mobile Development",
+            "Digital Media and Software Engineering"
+        ],
+        "Research": [
+            "Visual Computing",
+            "Haptics",
+            "Augmented Reality",
+            "Virtual Reality",
+            "Mixed Reality",
+            "Mobile Development",
+            "Web Development",
+            "Gaming and Software Engineering",
+            "software development methodologies",
+            "Java",
+            "TensorFlow",
+            "Keras",
+            "Unity3D",
+            "PHP",
+            "Node.JS",
+            "MongoDB",
+            "Docker",
+            "Angular",
+            "Flutter",
+            "JavaScript",
+            "MySQL",
+            "HTML",
+            "Android SDK",
+            "Python",
+            "Oracle DB",
+            "agile",
+            "waterfall"
+        ],
+        "Qualifications": [
+            "BSc (Hons) Computer Science (Games Development)",
+            "MSc Computer Science",
+            "Doctor of Philosophy"
+        ],
+        "Publications": [
+            "Worrallo, A.G. and Hartley, T.,. Robust optical based hand interaction for virtual reality",
+            "Worrallo, A.G.,A multiple optical tracking based approach for enhancing hand-based interaction in virtual reality simulations.",
+            "Kollie, E., Loizides, F., Hartley, T. and Worrallo, A., TTracker: Using Finger Detection to Improve Touch Typing Training",
+            "Stanton, M., Hartley, T., Loizides, F. and Worrallo. Dual-mode user interfaces for web based interactive 3d virtual environments using three.js",
+            "Wood, R., Loizides, F., Hartley, T. and Worrallo, A.,. Investigating Control of Virtual Reality Snowboarding Simulator Using a Wii Fit Board",
+            "Loizides, F., Naughton, L., Wilson, P., Loizou, M., Yang, S., Hartley, T., Worrallo, A. and Zaphiris, P.,.Interactive reading using low cost brain computer interfaces"
+        ]
+    },
+    {
+        "Name": "Dr Ian Coulson",
+        "Title": "Senior Lecturer",
+        "Email": "I.Coulson@wlv.ac.uk",
+        "Location": "Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Expertise": ["Concentrated in Computer Networks"],
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/ian-coulson",
+        "Research": [
+            "Nineteen publications in the areas of Vision systems",
+            "techno-economic computer modelling of hot dry rock power stations",
+            "properties of NdFeBCo alloy magnets",
+            "renewable energy systems",
+            "analogue and digital electronics",
+            "Security and Computer Networks",
+            "Instrumentation",
+            "programming",
+            "physics"
+        ]
+    },
+    {
+        "Name": "Sherin Nassa",
+        "Title": "Senior Lecturer",
+        "Email": "S.Nassa@wlv.ac.uk",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Expertise": ["Database Systems"],
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/sherin-nassa",
+        "Research": [
+            "Learning and Teaching in Higher Education",
+            "Participating in UKOUG (UK Oracle User Group conferences)"
+        ]
+    },
+    {
+        "Name": "Dr Liam Naughton",
+        "Title": "Senior Lecturer in Mathematics",
+        "Email": "L.Naughton@wlv.ac.uk",
+        "Phone": "01902 321452",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Expertise": ["Computational Group Theory, Permutation Groups, Burnside Rings & Tables of Marks"],
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/liam-naughton",
+        "Research": [
+            "Computational group theory",
+            "mainly finite permutation groups",
+            "table of marks of a finite group",
+            "GAP table of marks library Tomlib",
+            "developing new algorithms to compute the table of marks of a finite group"
+        ],
+        "Publications": [
+            "Integer Sequences realized by the Subgroup pattern of the Symmetric Group, with G. Pfeiffer, J. Integer",
+            "Computing the Table of Marks of a Cyclic Extensions, with G. Pfeiffer"
+        ]
+    },
+    {
+        "Name": "Dr Thomas Hartley",
+        "Title": "Senior Lecturer in Computer Science",
+        "Email": "T.Hartley2@wlv.ac.uk",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/thomas-hartley",
+        "Expertise": [
+            "Artificial intelligence (AI)",
+            "online learning / in-game learning in virtual environments",
+            "machine learning, virtual environments",
+            "computer games development",
+            "computer games technology",
+            "non-entertainment uses for games technology"
+        ],
+        "Research": [
+            "artificial intelligence (AI) for virtual environments",
+            "online learning / in-game learning",
+            "machine learning",
+            "interactive virtual environments",
+            "computer games development",
+            "digital media",
+            "computer games technology and non-entertainment uses for games technology"
+        ],
+        "Publications": [
+            "Adapting Pathfinding with Potential Energy. In A. Kumar, J. Etheredge, & A. Boudreaux (Eds.), Algorithmic and Architectural Gaming Design: Implementation and Development",
+            "Emotions for Intelligent Agents in Crisis Management Simulations: A Survey. CGAMES Louisville, Kentucky, USA. Carter, C., Mehdi, Q. and Hartley, T",
+            "Navigational techniques to improve usability and user experience in RPG Games. CGAMES 2012 Louisville, Kentucky, USA. Hartley, T. and Mehdi, Q. ",
+            "Applying Markov Decision Processes To 2D Real Time Games. CGAIDE 2004 5th International Conference on Intelligent Games and Simulation (eds. Quasim Medhi, Norman Gough, Stephane Natkin and David Al-Dabass)"
+        ]
+    },
+    {
+        "Name": "Dr Nader Sohrabi Safa",
+        "Title": "Senior Lecturer in Cyber Security",
+        "Email": "N.SohrabiSafa@wlv.ac.uk",
+        "Phone": "01902 321000",
+        "Location": "School of Mathematics and Computer Science",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/nader-sohrabi-safa",
+        "Expertise": [
+            "Information Security and Privacy Protection",
+            "Internet of Thing Security",
+            "Malware Analysis",
+            "Cyber Threats Intelligent",
+            "Incident Management and Response",
+            "Cybersecurity Architecture and Operations",
+            "Information Assurance",
+            "Ethical Hacking"
+        ],
+        "Research": [
+            "research that mitigates risks on information assets and protects privacy",
+            "PETRAS",
+            "Data Protection in Industry",
+            "Human Aspects of Cyber Security"
+        ],
+        "Publications": [
+            "Chatrabgoun, O., Daneshkhah, A., Safa, N. S., Esmaeilbeigi, M., Alenezi, A. H., & Rahman, A Predicting Primary Sequence-Based Protein-Protein Interactions Using a Mercer Series Representation of Nonlinear Support Vector Machine"
+        ]
+    },
+    {
+        "Name": "Adrian Priest",
+        "Title": "Senior Lecturer",
+        "Email": "A.Priest@wlv.ac.uk",
+        "Location": "School of Mathematics and Computer Science",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/adrian-priest",
+        "Expertise": [
+            "Degree Level Apprenticeships Development",
+            "Strategic Information Systems Management",
+            "Information Technology Management",
+            "Cyber Security",
+            "Programme Management",
+            "Project Management",
+            "Change Management",
+            "Business Analysis",
+            "Risk Management",
+            "Information Technology Support",
+            "Human Resources",
+            "Information Systems Acquisitions and Development Methods",
+            "Innovation and Emerging Technologies",
+            "Hardware and Software Technologies"
+        ],
+        "Research": [
+            "Cyber Security",
+            "Apprenticeships",
+            "Change Management",
+            "Project Management",
+            "Risk Management"
+        ],
+        "Publications": ["7th ICT Research Conference - Is Change Management an essential integrated element of Project Management or a bolt on discipline to be used on an ad hoc basis? IDM Sri Lanka"]
+    },
+    {
+        "Name": "Dr. Md Arafatur Rahman",
+        "Title": "Senior Lecturer",
+        "Email": "Arafatur.Rahman@wlv.ac.uk",
+        "Location": "Wulfruna Street, WV1 1LY, Wolverhampton",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Expertise": ["Wireless Communications (Network, MAC and Cross-Layer Design)"],
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/md-arafatur-rahman",
+        "Research": [
+            "Internet-of-Things (IoT)",
+            "Wireless Communication Networks",
+            "Cognitive Radio Network",
+            "5G",
+            "Vehicular Communication",
+            "Cyber Physical System",
+            "Big Data",
+            "Cloud-Fog-Edge Computing",
+            "Machine Learning and Security"
+        ]
+    },
+    {
+        "Name": "Dr. Andrew Gascoyne",
+        "Title": "L/SL in Mathematics",
+        "Profile": "https://researchers.wlv.ac.uk/A.D.Gascoyne",
+        "Research": [
+            "Mathematical Modelling",
+            "Solar Physics Quantum Physics Biology",
+            "Helioseismology",
+            "the study of acoustic wave propagation within the interior of the Sun",
+            "MHD (magnetohydrodynamics) wave propagation.",
+            "Mathematical modelling",
+            "complex mechanisms and processes involved in the interaction of the solar acoustic modes with magnetic elements on the Sun"
+        ],
+        "Publications": [
+            "Raising aspirations using elements of team-based learning in mathematics: a pilot study",
+            "Dynamics of charged particle motion in the vicinity of three dimensional magnetic null points: Energization and chaos.",
+            "Five-minute oscillation power within magnetic elements in the solar atmosphere.",
+            "Energy loss of solar p modes due to the excitation of magnetic sausage tube waves: importance of coupling the upper atmosphere",
+            "Sensitivity of p-mode absorption on magnetic region properties and kernel functions",
+            "Axisymmetric absorption of p modes by an ensemble of thin, magnetic-flux tubes",
+            "Interaction of p modes with a collection of thin magnetic tubes",
+            "Damping rates of p-modes by an ensemble of randomly distributed thin magnetic flux tubes",
+            "The role of magnetic fields in the scattering of p-modes"
+        ]
+    },
+    {
+        "Name": "Dr. Paul Wilson",
+        "Title": "Lecturer in Statistics",
+        "Profile": "https://researchers.wlv.ac.uk/PaulJWilson",
+        "Research": [
+            "Statistical modelling, especially of count data, with particular emphasis on zero-modified data and assessment of model fit.",
+            "Statistical analysis on diffusion tensor estimation",
+            "Factors associating with the future citation impact of published articles: a statistical modelling approach",
+            "Variants of compound models and their application to citation analysis",
+            "Modified mean and quantile regression models for citation analysis"
+        ],
+        "Publications": [
+            "A consistent way to define p-values",
+            "Do bibliometrics introduce gender, institutional or interdisciplinary biases into research evaluations?",
+            "In which fields do higher impact journals publish higher quality articles?",
+            "Predicting article quality scores with machine learning: The UK Research Excellence Framework",
+            "In which fields are citations indicators of research quality?",
+            "Does the perceived quality of interdisciplinary research vary between fields?",
+            "A Bayesian hurdle quantile regression model for citation analysis with mass points at lower values",
+            "A graphical tool for assessing the suitability of a count regression model",
+            "A Bayesian Two-part Hurdle Quantile Regression Model for Citation Analysis.",
+            "Raising aspirations using elements of team-based learning in mathematics: a pilot study",
+            "A new algorithm for zero-modified models applied to citation counts",
+            "Testing for zero-modification relative to a negative-binomial distribution",
+            "Sample quantiles corresponding to mid p-values for zero modification tests",
+            "Interactive reading using low cost brain computer interfaces",
+            "A diagnostic plot for assessing model fit in count data models",
+            "On statistical testing and mean parameter estimation for zero modification in count data regression",
+            "Does research with statistics have more impact? the citation rank advantage of structural equation modeling",
+            "Stopped sum models and proposed variants for citation data",
+            "A simple and intuitive test for number-inflation or number-deflation",
+            "Mendeley readership altmetrics for medical articles: An analysis of 45 fields",
+            "The misuse of the Vuong test for non-nested models to test for zero-inflation",
+            "Regression for citation data: An evaluation of different methods",
+            "The Misuse of The Vuong Test For Non-Nested Models to Test for Zero-Inflation",
+            "Regression for citation data: An evaluation of different methods.",
+            "Which factors help to produce high impact research? A combined statistical modelling approach",
+            "Zero Augmentation: A method for fitting zero-modified count models that allows both zero-inflation and zero-deflation",
+            "Bias estimation of p-values in analytic and simulated Cox Tests for non-nested models",
+            "The Dragnet Test: A New Approach to Choosing Between Models",
+            "A hybrid test for non-nested models"
+        ]
+    },
+    {
+        "Name": "Jeffrey Ting",
+        "Title": "Head of Computing and Mathematical Science (Interim)",
+        "Email": "J.Ting@wlv.ac.uk",
+        "Faculty": "Faculty of Science and Engineering",
+        "Institute": "School of Mathematics and Computer Science",
+        "Profile": "https://www.wlv.ac.uk/about-us/our-staff/jeffrey-ting",
+        "Expertise": [
+            "Machine Learning",
+            "Mobile Technologies",
+            "Software Engineering",
+            "Cyber Security",
+            "Web Technologies",
+            "Networking",
+            "Mobile Development"
+        ],
+        "Research": [
+            "Machine Learning",
+            "Computer Vision",
+            "Plenoptic Lightfield Imaging"
+        ],
+        "Publications": [
+            "James Rossiter, T. Arvanitis, K. Natarajan, Jeffrey Ting, Y. Sun, M. Wilson, N. P. Davies, R. Grazier, J. Crouch, D. Auer, C. A. Clark .Aiding the Diagnosis and Characterisation of Childhood Cancer: Software Design and Deployment of the Children\u2019s Cancer and Leukaemia Group (CCLG) Functional Imaging e\u2010Repository for Clinical Trials of Childhood Brain Tumours, Cancer Research UK Conference",
+            "Arvanitis TN, Natarajan K, Rossiter J, Ting JIH, Sun Y, Wilson M, Davies NP, Orphanidou-Vlachou E, Grazier R, Crouch J, Auer DP, Clark CA, Grundy R, Hargrave D, Howe F, Jaspan T, Leach MO, MacPherson L, Payne GS, Saunders DE, Peet AC (2010). The Children's Cancer and Leukaemia Group (CCLG) Functional Imaging E-Repository for Clinical Trials of Childhood Brain Tumours. 14th International Symposium on Pediatric Neuro-Oncology.",
+            "Bull, S., Gardner, P., Ahmad, N., Ting, J. & Clarke, B. (2009). Use and Trust of Simple Independent Open Learner Models to Support Learning Within and Across Courses, in G-J. Houben, G, McCalla, F. Pianesi & M. Zancanari (eds), User Modeling, Adaptation and Personalization, Springer-Verlag, BerlinHeidelberg,42-53.",
+            "A Hybrid Framework for Light Field Scene Reconstruction",
+            "Interactive Logbook: a Mobile Portfolio and Personal Development Planning Tool, Proceedings of Workshop for Mobile and Contextual Learning, Cape Town, South Africa. Chan, T., Corlett, D., Sharples, M., Ting, J., and Westmancott, O.",
+            "University of Coimbra, Portugal, 1998. Gough, N.E., Ting, I.H. and Mirza, M.J. Recent developments in Windows Convolution Based Simulation Language (WCBSL) and its applications",
+            "Modelling of Characteristic Delays in Multivariable Control Systems Using Windows Convolution-Based Simulation Language, Mathematical Modelling of Systems Journal,Stankovski",
+            "WCBSL - Windows convolution-based simulation language for process control, Proc ESS'94 European Simulation Symposium, Istanbul, Dimirovski G.M., Ivanovski M., Gjorsoski J., Hadzi-Nicev N., Iliev O.L., Deskov V.P., Gough N.E., Ting I.H. and Sadaoui N.",
+            "Gough N.E., Dimirovsky G.M., Ting I.H., A Survey of the Characteristic Pattern Approach to Computer-Aided Analysis and Design of Discrete Control Systems. Proc. ETAI, Ohrid, September.",
+            "Sadaoui N., Gough N.E., & Dimirovski G.M., Ting I.H., A Portable Software Language for the Simulation of Discrete Multivariable Control Systems Based on Convolution Algebra. Proc",
+            "Gough N.E., Dimirovski G.M., & Sadaoui N., Ting I.H., CAD of Discrete Multivariable Control systems Using Singular Characteristic Patterns."
+        ]
+    }
+]
